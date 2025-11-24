@@ -1,4 +1,4 @@
-# To-do App
+# To-Do
 To-do list app made in React Native. Get sorted.
 
 <table>
